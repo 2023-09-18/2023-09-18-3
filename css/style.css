@@ -1,0 +1,13 @@
+body {
+  background: red;
+}
+body h1 {
+  color: white;
+  font-size: 100px;
+}
+body P {
+  font-size: 50px;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
